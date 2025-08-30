@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\MyBlockForumServer.csproj": {}
+    "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\MyBlockForumServer.csproj": {}
   },
   "projects": {
-    "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\MyBlockForumServer.csproj": {
+    "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\MyBlockForumServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\MyBlockForumServer.csproj",
+        "projectUniqueName": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\MyBlockForumServer.csproj",
         "projectName": "MyBlockForumServer",
-        "projectPath": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\MyBlockForumServer.csproj",
-        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\obj\\",
+        "projectPath": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\MyBlockForumServer.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\anton\\Downloads\\Debug": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -117,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

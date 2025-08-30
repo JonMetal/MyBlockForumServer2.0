@@ -46,7 +46,7 @@ namespace MyBlockForumServer.Database.Services
             ArgumentNullException.ThrowIfNull(user);
             if (Hash.GetHash(login, password) != user.Password)
             {
-                throw new Exception("Failed to Login");
+                throw new ArgumentException("Failed to Login");
             }
 
             return _jwtProvider.GenerateToken(user);

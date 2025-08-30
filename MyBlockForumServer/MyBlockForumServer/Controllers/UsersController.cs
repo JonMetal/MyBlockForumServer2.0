@@ -42,9 +42,13 @@ namespace MyBlockForumServer.Controllers
                 HttpContext.Response.Cookies.Append("user_cookie", id);
                 return Ok(token);
             }
-            catch
+            catch(ArgumentException ex)
             {
-                return BadRequest();
+                return NotFound(ex.Message);
+            }
+            catch(Exception ex)
+            {
+                return BadRequest(ex.Message);
             }
         }
 

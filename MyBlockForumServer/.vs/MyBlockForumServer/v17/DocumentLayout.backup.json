@@ -1,174 +1,173 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\",
+  "WorkspaceRootPath": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\controllers\\threadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\controllers\\threadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\controllers\\requestproceccor\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\controllers\\requestproceccor\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\abstractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\repositories\\abstractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\myblockforumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\myblockforumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\myblockforumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\tools\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\controllers\\threadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\controllers\\threadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\controllers\\requestproceccor\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\controllers\\requestproceccor\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\abstractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\repositories\\abstractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\tools\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\tools\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\extensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\extensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\extensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\userregistrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\userregistrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\models\\userregistrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\services\\threadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\services\\threadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\services\\threadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\services\\ithreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\services\\ithreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\services\\ithreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\threaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\threaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\models\\threaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\models\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\models\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\threadthemerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\threadthemerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\repositories\\threadthemerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\threadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\threadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\repositories\\threadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\repositories\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\tools\\requestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\tools\\requestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\tools\\requestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\myblockforumserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\myblockforumserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\myblockforumserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\entities\\thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\entities\\thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\entities\\thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\auth\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\auth\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\auth\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\threadthemedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\threadthemedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\models\\threadthemedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\entities\\threadtheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\entities\\threadtheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\entities\\threadtheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx\\myblockforum2.0\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|c:\\onyx3\\myblockforumserver2.0\\myblockforumserver\\myblockforumserver\\database\\models\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E44B1D-8085-46F1-98FB-DCDB0A555CAC}|MyBlockForumServer\\MyBlockForumServer.csproj|solutionrelative:myblockforumserver\\database\\models\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\MyBlockForumDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBlockForumServer\\Database\\Entities\\MyBlockForumDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\MyBlockForumDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -178,43 +177,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "MyBlockForumServer\\appsettings.Development.json",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\appsettings.Development.json",
-              "RelativeToolTip": "MyBlockForumServer\\appsettings.Development.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-17T09:58:57.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\appsettings.json",
-              "RelativeDocumentMoniker": "MyBlockForumServer\\appsettings.json",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\appsettings.json",
-              "RelativeToolTip": "MyBlockForumServer\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-17T09:58:39.775Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "UserRegistryDto.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\UserRegistryDto.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\UserRegistryDto.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Models\\UserRegistryDto.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\UserRegistryDto.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\UserRegistryDto.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Models\\UserRegistryDto.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA5wAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -224,9 +195,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "IThreadService.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\IThreadService.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\IThreadService.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Services\\IThreadService.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\IThreadService.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\IThreadService.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Services\\IThreadService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,9 +207,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "IMessageService.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\IMessageService.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\IMessageService.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Services\\IMessageService.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\IMessageService.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\IMessageService.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Services\\IMessageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,9 +219,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\IUserService.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Services\\IUserService.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\IUserService.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Services\\IUserService.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,11 +229,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\UsersController.cs",
               "RelativeToolTip": "MyBlockForumServer\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAHoAAAAAAAAAAAAzwIEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -270,11 +241,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RequestHandler.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\RequestProceccor\\RequestHandler.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\RequestProceccor\\RequestHandler.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Controllers\\RequestProceccor\\RequestHandler.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\RequestProceccor\\RequestHandler.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\RequestProceccor\\RequestHandler.cs",
               "RelativeToolTip": "MyBlockForumServer\\Controllers\\RequestProceccor\\RequestHandler.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAADwvxcAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -282,11 +253,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ThreadsController.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\ThreadsController.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\ThreadsController.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Controllers\\ThreadsController.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\ThreadsController.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\ThreadsController.cs",
               "RelativeToolTip": "MyBlockForumServer\\Controllers\\ThreadsController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAmwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -294,24 +265,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MessagesController.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\MessagesController.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\MessagesController.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Controllers\\MessagesController.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Controllers\\MessagesController.cs",
               "RelativeToolTip": "MyBlockForumServer\\Controllers\\MessagesController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBEAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T09:43:17.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyBlockForumDbContext.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\MyBlockForumDbContext.cs",
+              "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\MyBlockForumDbContext.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\MyBlockForumDbContext.cs",
+              "RelativeToolTip": "MyBlockForumServer\\Database\\MyBlockForumDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAMwB8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:05:09.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\appsettings.json",
+              "RelativeDocumentMoniker": "MyBlockForumServer\\appsettings.json",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\appsettings.json",
+              "RelativeToolTip": "MyBlockForumServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T09:58:39.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyBlockForumServer\\appsettings.Development.json",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\appsettings.Development.json",
+              "RelativeToolTip": "MyBlockForumServer\\appsettings.Development.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T09:58:57.09Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 31,
               "Title": "MyBlockForumServer.http",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\MyBlockForumServer.http",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\MyBlockForumServer.http",
               "RelativeDocumentMoniker": "MyBlockForumServer\\MyBlockForumServer.http",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\MyBlockForumServer.http",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\MyBlockForumServer.http",
               "RelativeToolTip": "MyBlockForumServer\\MyBlockForumServer.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -321,9 +329,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "RequestValidator.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Tools\\RequestValidator.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Tools\\RequestValidator.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Tools\\RequestValidator.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Tools\\RequestValidator.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Tools\\RequestValidator.cs",
               "RelativeToolTip": "MyBlockForumServer\\Tools\\RequestValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -333,9 +341,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "MessageService.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\MessageService.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\MessageService.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Services\\MessageService.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\MessageService.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Services\\MessageService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -345,9 +353,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Hash.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Tools\\Hash.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Tools\\Hash.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Tools\\Hash.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Tools\\Hash.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Tools\\Hash.cs",
               "RelativeToolTip": "MyBlockForumServer\\Tools\\Hash.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -355,11 +363,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAlwA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -367,11 +375,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\UserService.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Services\\UserService.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\UserService.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\UserService.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Services\\UserService.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwDgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -381,9 +389,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "ThreadThemeRepository.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\ThreadThemeRepository.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\ThreadThemeRepository.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Repositories\\ThreadThemeRepository.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\ThreadThemeRepository.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\ThreadThemeRepository.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Repositories\\ThreadThemeRepository.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -393,9 +401,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "ThreadService.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\ThreadService.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\ThreadService.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Services\\ThreadService.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\ThreadService.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Services\\ThreadService.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Services\\ThreadService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwAkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -405,9 +413,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ApiExtensions.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Extensions\\ApiExtensions.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Extensions\\ApiExtensions.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Extensions\\ApiExtensions.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Extensions\\ApiExtensions.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Extensions\\ApiExtensions.cs",
               "RelativeToolTip": "MyBlockForumServer\\Extensions\\ApiExtensions.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAtwAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -417,9 +425,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "Thread.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Thread.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Thread.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Entities\\Thread.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Thread.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Thread.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Entities\\Thread.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -429,9 +437,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "ThreadRepository.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\ThreadRepository.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\ThreadRepository.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Repositories\\ThreadRepository.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\ThreadRepository.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\ThreadRepository.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Repositories\\ThreadRepository.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAYwBEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -439,23 +447,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MyBlockForumDbContext.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\MyBlockForumDbContext.cs",
-              "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\MyBlockForumDbContext.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\MyBlockForumDbContext.cs",
-              "RelativeToolTip": "MyBlockForumServer\\Database\\MyBlockForumDbContext.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIA9wB8AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:05:09.673Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 21,
               "Title": "ThreadDto.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\ThreadDto.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\ThreadDto.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Models\\ThreadDto.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\ThreadDto.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\ThreadDto.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Models\\ThreadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -465,9 +461,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\User.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\User.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Entities\\User.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\User.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\User.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Entities\\User.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAwwCUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -475,24 +471,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\IRepository.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\IRepository.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Repositories\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T12:41:07.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T12:41:07.681Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "StatusRepository.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\StatusRepository.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\StatusRepository.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Repositories\\StatusRepository.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\StatusRepository.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\StatusRepository.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Repositories\\StatusRepository.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAgwAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -502,9 +497,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "RoleRepository.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\RoleRepository.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\RoleRepository.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Repositories\\RoleRepository.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\RoleRepository.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Repositories\\RoleRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA1wCsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -514,9 +509,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "MessageRepository.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\MessageRepository.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\MessageRepository.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Repositories\\MessageRepository.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\MessageRepository.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\MessageRepository.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Repositories\\MessageRepository.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAkwCwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -524,11 +519,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AbstractRepository.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\AbstractRepository.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\AbstractRepository.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Repositories\\AbstractRepository.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\AbstractRepository.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Repositories\\AbstractRepository.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Repositories\\AbstractRepository.cs",
               "ViewState": "AgIAABoAAAAAAAAAAIA5wB4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -538,9 +533,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "JwtProvider.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Auth\\JwtProvider.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Auth\\JwtProvider.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Auth\\JwtProvider.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Auth\\JwtProvider.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Auth\\JwtProvider.cs",
               "RelativeToolTip": "MyBlockForumServer\\Auth\\JwtProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -550,9 +545,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "IJwtProvider.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Auth\\IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Auth\\IJwtProvider.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Auth\\IJwtProvider.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Auth\\IJwtProvider.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Auth\\IJwtProvider.cs",
               "RelativeToolTip": "MyBlockForumServer\\Auth\\IJwtProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -562,9 +557,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "Status.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Status.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Status.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Entities\\Status.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Status.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Status.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Entities\\Status.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAswAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -574,9 +569,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Role.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Entities\\Role.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Role.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Role.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Entities\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -586,9 +581,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Message.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Message.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Entities\\Message.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Message.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\Message.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Entities\\Message.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -598,9 +593,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "ThreadTheme.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\ThreadTheme.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\ThreadTheme.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Entities\\ThreadTheme.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\ThreadTheme.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\ThreadTheme.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Entities\\ThreadTheme.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -611,9 +606,9 @@
               "DocumentIndex": 41,
               "Title": "MyBlockForumDbContext.cs",
               "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\MyBlockForumDbContext.cs",
-              "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Entities\\MyBlockForumDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\MyBlockForumDbContext.cs",
               "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\MyBlockForumDbContext.cs",
-              "RelativeToolTip": "MyBlockForumServer\\Database\\Entities\\MyBlockForumDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Entities\\MyBlockForumDbContext.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T11:27:14.542Z"
             },
@@ -621,9 +616,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Program.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Program.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Program.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Program.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Program.cs",
               "RelativeToolTip": "MyBlockForumServer\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -633,9 +628,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\UserDto.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\UserDto.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Models\\UserDto.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\UserDto.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Models\\UserDto.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -645,9 +640,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "ThreadThemeDto.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\ThreadThemeDto.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\ThreadThemeDto.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Models\\ThreadThemeDto.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\ThreadThemeDto.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\ThreadThemeDto.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Models\\ThreadThemeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -657,9 +652,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "StatusDto.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\StatusDto.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\StatusDto.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Models\\StatusDto.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\StatusDto.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\StatusDto.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Models\\StatusDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -669,9 +664,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "RoleDto.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\RoleDto.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\RoleDto.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Models\\RoleDto.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\RoleDto.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\RoleDto.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Models\\RoleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -681,9 +676,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "MessageDto.cs",
-              "DocumentMoniker": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\MessageDto.cs",
+              "DocumentMoniker": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\MessageDto.cs",
               "RelativeDocumentMoniker": "MyBlockForumServer\\Database\\Models\\MessageDto.cs",
-              "ToolTip": "C:\\Onyx\\MyBlockForum2.0\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\MessageDto.cs",
+              "ToolTip": "C:\\Onyx3\\MyBlockForumServer2.0\\MyBlockForumServer\\MyBlockForumServer\\Database\\Models\\MessageDto.cs",
               "RelativeToolTip": "MyBlockForumServer\\Database\\Models\\MessageDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
